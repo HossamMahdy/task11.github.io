@@ -1,0 +1,88 @@
+body
+{
+    background-image: url("../images/bg-intro-desktop.png");
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-size: cover;
+    background-color: hsl(0, 100%, 74%) ;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+.try
+{
+    border: 1px solid hsl(248, 32%, 49%);
+    background-color:hsl(248, 32%, 49%) ;
+    color: white;
+    border-radius: 9px;
+    box-shadow: 0px 7px 0px 0px rgb(0 0 0 / 10%);
+}
+.try_text
+{
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+.try:hover , .try_text:hover
+{
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+}
+.try:hover
+{
+    background-color: rgba(108, 71, 146,.9);
+    border: 1px solid rgba(108, 71, 146);
+
+    
+}
+.learn
+{
+    font-weight: 700;
+}
+.form_box
+{
+    border: 1px solid white;
+    padding: 25px 25px 35px 25px  ;
+    background-color: white;
+    border-radius: 9px;
+}
+.btn:hover
+{
+    background-color: hsl(154, 59%, 51%) !important;
+    opacity: .8!important;
+    color: white!important;
+}
+.claim_text
+{
+    text-align: center;
+    text-transform: uppercase;
+}
+.par
+{
+    font-weight: 400;
+    font-size: 14px;
+}
+.last_text
+{
+    color: hsl(246, 25%, 77%) ;
+    text-align: center;
+    font-size: 11px;
+    font-weight: 400;
+}
+.invalid-feedback
+{
+    font-style: italic !important;
+}
+.term
+{
+    color: hsl(0, 100%, 74%);
+    font-weight: 500;
+
+}
+.term:hover
+{
+    text-decoration: none;
+    color:  hsl(0, 100%, 74%);
+    cursor: pointer;
+}
