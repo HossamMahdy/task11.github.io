@@ -29,9 +29,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/HossamMahdy/task11.github.io)
+- Solution URL: [solution URL here](https://github.com/HossamMahdy/task11.github.io)
 github
-- Live Site URL: [Add live site URL here](https://hossammahdy.github.io/task11.github.io/)
+- Live Site URL: [live site URL here](https://hossammahdy.github.io/task11.github.io/)
 github page 
 
 
