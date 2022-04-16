@@ -29,10 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL here](https://github.com/HossamMahdy/task11.github.io)
-github
-- Live Site URL: [live site URL here](https://hossammahdy.github.io/task11.github.io/)
-github page 
+- Solution URL: [https://github.com/HossamMahdy/task11.github.io]
+- Live Site URL: [https://hossammahdy.github.io/task11.github.io/]
 
 
 ### Built with
@@ -44,10 +42,10 @@ more about the grid system and how to order it by the right way
 
 ### Useful resources
 
-- [Example resource 1](https://getbootstrap.com/docs/4.6/layout/grid/) - This helped me for learning the grid system. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.w3schools.com/jquery/default.asp) - This is an amazing article which helped me finally understand a lot of Javascript and jQuery. I'd recommend it to anyone still learning this concept.
+- [https://getbootstrap.com/docs/4.6/layout/grid/] - This helped me for learning the grid system. I really liked this pattern and will use it going forward.
+- [https://www.w3schools.com/jquery/default.asp] - This is an amazing article which helped me finally understand a lot of Javascript and jQuery. I'd recommend it to anyone still learning this concept.
 *
 
 ## Author
 if you want to 
-- Website - [Add your name here](https://github.com/HossamMahdy)
+- Website - [https://github.com/HossamMahdy]
